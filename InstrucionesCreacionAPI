@@ -1,0 +1,10 @@
+Instrucciones iniciales de la creacion de la API
+
+Crear la API 
+dotnet new webapi -n TemplateMarket.API
+
+Ejecutar 
+dotnet new webapi -n TemplateMarket.API
+
+Compilar 
+dotnet build
