@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\TemplateMarket\\TemplateMarket.API\\TemplateMarket.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Desktop\\TemplateMarket\\backend\\TemplateMarket.API\\TemplateMarket.API.csproj",
       "projectName": "TemplateMarket.API",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\TemplateMarket\\TemplateMarket.API\\TemplateMarket.API.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\TemplateMarket\\backend\\TemplateMarket.API\\TemplateMarket.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\TemplateMarket\\TemplateMarket.API\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Desktop\\TemplateMarket\\backend\\TemplateMarket.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
