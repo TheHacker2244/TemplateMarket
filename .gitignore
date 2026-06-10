@@ -1,0 +1,12 @@
+bin/
+obj/
+
+.vs/
+.vscode/
+
+node_modules/
+
+.env
+
+git rm -r --cached backend/TemplateMarket.API/bin
+git rm -r --cached backend/TemplateMarket.API/obj
